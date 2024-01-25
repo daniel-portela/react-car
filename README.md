@@ -10,10 +10,8 @@
 
 <p>O projeto React Car é uma inovadora aplicação desenvolvida em React, proporcionando uma experiência envolvente para os entusiastas de carros. Esse projeto é totalmente responsivo e se adapta em todos os aparelhos.</p>
 
+<a href="https://react-car-phi.vercel.app/"><strong>Demonstração ao vivo</strong></a>
 </div><br>
-
-
-<b>Capturas de tela e demonstração:</b>
 
 ![image](https://github.com/daniel-portela/react-car/assets/110783805/c234a736-0090-4199-82e0-901b72763302)
 
